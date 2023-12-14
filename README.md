@@ -1,4 +1,8 @@
-# cob8049429023bc6b69a46bae
+# twitter-clone
+Project created as a part of the Frontend Developer course in Scrimba  
+![image](https://github.com/OlenaG8/cob8049429023bc6b69a46bae/assets/135965492/047194b9-8ac0-4522-b574-cf0ea89cd3b4)
+
+
 
 Quick start:
 
